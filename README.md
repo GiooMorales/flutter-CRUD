@@ -2,6 +2,12 @@
 
 Aplicativo Flutter que demonstra um fluxo completo de cadastro de usuários (CRUD) utilizando `provider` para gerenciamento de estado. A solução oferece uma lista dinâmica de usuários, formulário de criação/edição com validação e confirmação de remoção com `AlertDialog`.
 
+<img width="397" height="759" alt="image" src="https://github.com/user-attachments/assets/0342eec4-f385-45db-b41c-78d6c9324006" />
+
+<img width="394" height="749" alt="image" src="https://github.com/user-attachments/assets/38928fbc-d266-41af-a570-d4d1840c0aed" />
+
+<img width="386" height="721" alt="image" src="https://github.com/user-attachments/assets/682545c8-18f3-4a9e-bdda-68b01ccf945b" />
+
 ## Visão Geral
 
 - **Plataformas**: Android, iOS, Web, Windows, macOS e Linux (projeto multi-plataforma gerado pelo Flutter).
